@@ -1,4 +1,4 @@
-# Future Lab — The Futurist Network
+# Future Lab
 
 A standalone, responsive one-page site using original Future Lab copy, photography, films, and faculty profiles. Buildless HTML, CSS, and JavaScript; no database or API credentials required.
 
@@ -18,4 +18,4 @@ Film playback depends on the existing Cloudinary and Supabase public media URLs.
 
 ## Discovery limits
 
-Searched local project material, related local Future Land content, and the public web. Connected Google Drive search returned an internal error. This inventory is comprehensive for the gathered public page assets, not a claim that every private Future Lab file has been located.
+Searched local project material, and the public web. Connected Google Drive search returned an internal error. This inventory is comprehensive for the gathered public page assets, not a claim that every private Future Lab file has been located.
