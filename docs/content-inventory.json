@@ -1,0 +1,384 @@
+{
+  "source": "The Spatial Network public Future Lab components and assets",
+  "gatheringStatus": "Next date, time, and location to be announced",
+  "assets": [
+    "images/futurelb-gallery.png",
+    "images/accelerator-future-lab-video-poster.jpg",
+    "images/logos/futurelab-wordmark-light.jpg",
+    "images/logos/the-futurist-network-logo-transparent.png",
+    "images/og-images/futurelab-og.png",
+    "videos/future-lab-animated-loop.mp4",
+    "images/residency/25.jpg",
+    "images/residency/26.jpg",
+    "images/residency/27.jpg",
+    "images/residency/28.jpg",
+    "images/residency/29.jpg",
+    "images/residency/30.jpg",
+    "images/residency/31.jpg",
+    "images/residency/32.jpg",
+    "images/residency/33.jpg",
+    "images/residency/34.jpg",
+    "images/residency/35.jpg",
+    "images/residency/36.jpg",
+    "images/residency/37.jpg",
+    "images/residency/38.jpg",
+    "images/residency/39.jpg",
+    "images/residency/40.jpg",
+    "images/residency/15.jpg",
+    "images/residency/22.jpg",
+    "images/futurelab-facilitators/kalomo.jpg",
+    "images/futurelab-facilitators/greg.jpg",
+    "images/futurelab-facilitators/marc.jpg",
+    "images/futurelab-facilitators/nick.png",
+    "images/futurelab-facilitators/davey.jpg",
+    "images/futurelab-facilitators/joe.jpg"
+  ],
+  "films": [
+    [
+      "Future Lab + Accelerator",
+      "https://mhmtbsugxmiebanqeifx.supabase.co/storage/v1/object/public/videos/accelerator-and-future-lab.mp4"
+    ],
+    [
+      "Ekotech Immersion",
+      "https://res.cloudinary.com/dhei6ntbf/video/upload/q_auto/stories/m3dyocwuedpxfcarzoyn.mp4"
+    ],
+    [
+      "Kitchack",
+      "https://mhmtbsugxmiebanqeifx.supabase.co/storage/v1/object/public/story-videos/1782526131204-pqz9p81d5ql.mov"
+    ]
+  ],
+  "copy": {
+    "pageTitle": "Future Lab | The Futurist Network",
+    "metaDescription": "We are planning the next Future Lab. The date, time, and location will be announced soon.",
+    "ogImageAlt": "Future Lab — a gathering for people building what comes next. Next date and time coming soon.",
+    "getTickets": "NEXT DATE COMING SOON",
+    "getTicketsMember": "NEXT DATE COMING SOON",
+    "ticketPricingNote": "We are planning our next gathering. The date, time, location, and details will be announced soon.",
+    "stay": {
+      "id": "stay",
+      "label": "Stay Nearby",
+      "headline": "recommended places to stay",
+      "lead": "Stay with the community or explore a few places we recommend nearby.",
+      "addStayCta": "Add Stay to Ticket",
+      "viewDetailsCta": "View Details",
+      "seeOthers": "Other places nearby",
+      "communityBadge": "Community Stay",
+      "soldOut": "Community Stay Sold Out"
+    },
+    "nav": {
+      "brand": "the futurist network",
+      "links": [
+        {
+          "href": "#about",
+          "label": "ABOUT"
+        },
+        {
+          "href": "#day-schedule",
+          "label": "SCHEDULE"
+        },
+        {
+          "href": "#pillars",
+          "label": "PILLARS"
+        },
+        {
+          "href": "/faculty",
+          "label": "FACULTY"
+        },
+        {
+          "href": "#stay",
+          "label": "STAY"
+        },
+        {
+          "href": "tickets",
+          "label": "NEXT DATE COMING SOON"
+        }
+      ]
+    },
+    "hero": {
+      "eventLine": "Next Future Lab · Date and time to be announced soon",
+      "primaryCta": "NEXT DATE COMING SOON",
+      "secondaryCta": "EXPLORE THE PILLARS",
+      "secondaryHref": "#pillars"
+    },
+    "about": {
+      "id": "about",
+      "headline": "the future doesn't build itself",
+      "lead": "Every Future Lab gathering moves through a guided innovation pipeline, and roundtable discussion around emerging technology.",
+      "stats": [
+        {
+          "value": "4",
+          "label": "PILLARS",
+          "description": "Built World, Living Systems, Story Worlds, and Tools + Making."
+        },
+        {
+          "value": "1",
+          "label": "IMMERSIVE EXPERIENCE",
+          "description": ""
+        },
+        {
+          "value": "∞",
+          "label": "POSSIBLE FUTURES",
+          "description": "The only limit is our imagination together."
+        }
+      ]
+    },
+    "tentativeSchedule": {
+      "id": "day-schedule",
+      "label": "Next Future Lab — coming soon",
+      "note": "We will announce the next Future Lab date, time, and location soon.",
+      "items": [
+        {
+          "id": "next-gathering",
+          "time": "Coming soon",
+          "title": "The next Future Lab",
+          "detail": "We are working on the next gathering. Check back soon for details.",
+          "settingsKey": "schedule_image_arrive_url",
+          "defaultImage": "/images/residency/38.jpg"
+        }
+      ]
+    },
+    "eventFeatures": {
+      "id": "features",
+      "label": "Event Features",
+      "items": [
+        {
+          "id": "tech-demos",
+          "label": "Tech Demos",
+          "settingsKey": "feature_tile_tech_demos_url",
+          "defaultImage": "/images/residency/15.jpg"
+        },
+        {
+          "id": "ai-workshops",
+          "label": "AI Workshops",
+          "settingsKey": "feature_tile_ai_workshops_url",
+          "defaultImage": "/images/residency/22.jpg"
+        },
+        {
+          "id": "interactive-installations",
+          "label": "Interactive Installations",
+          "settingsKey": "feature_tile_interactive_installations_url",
+          "defaultImage": "/images/residency/28.jpg"
+        },
+        {
+          "id": "interview-studio",
+          "label": "Interview Studio",
+          "settingsKey": "feature_tile_interview_studio_url",
+          "defaultImage": "/images/residency/31.jpg"
+        },
+        {
+          "id": "evening-dj-set",
+          "label": "Evening DJ Set",
+          "settingsKey": "feature_tile_evening_dj_set_url",
+          "defaultImage": "/images/residency/35.jpg"
+        }
+      ]
+    },
+    "pillars": {
+      "id": "pillars",
+      "headline": "Four pillars into the future",
+      "lead": "Each pillar hosts its own roundtable. Live music and hologram installations weave through the whole evening.",
+      "items": [
+        {
+          "id": "built-world",
+          "number": "01",
+          "title": "BUILT WORLD",
+          "accent": "#FF5E5B",
+          "description": "Spaces, infrastructure, and the physical systems that shape daily life — modular housing, regenerative construction, and the tools that build them.",
+          "idealFor": "Architects · Builders · Engineers · Makers"
+        },
+        {
+          "id": "living-systems",
+          "number": "02",
+          "title": "LIVING SYSTEMS",
+          "accent": "#FFB020",
+          "description": "Ecology, community, health, and the networks that sustain us — longevity, wellness practices, and thriving human systems.",
+          "idealFor": "Health professionals · Coaches · Biohackers · Practitioners"
+        },
+        {
+          "id": "story-worlds",
+          "number": "03",
+          "title": "STORY WORLDS",
+          "accent": "#00C7B1",
+          "description": "Narratives, culture, and meaning-making that moves us forward — immersive media, AI filmmaking, and spatial storytelling.",
+          "idealFor": "Filmmakers · Creators · Educators · Journalists"
+        },
+        {
+          "id": "tools-making",
+          "number": "04",
+          "title": "TOOLS + MAKING",
+          "accent": "#E64DFF",
+          "description": "Methods, tech, and creative practice that turn ideas into reality — fabrication, prototyping, and the Futurist Toolkit.",
+          "idealFor": "Inventors · Product designers · Fabricators · Hackers"
+        }
+      ]
+    },
+    "method": {
+      "id": "method",
+      "headline": "Less watching. More making.",
+      "lead": "A shared rhythm for every Future Lab evening — anchored by the pillars.",
+      "steps": [
+        {
+          "id": "observe",
+          "title": "OBSERVE",
+          "description": "Tune in together. Surface signals, tensions, and possibilities shaping now."
+        },
+        {
+          "id": "provoke",
+          "title": "PROVOKE",
+          "description": "Ask better questions. Challenge assumptions. Open new lines of thought."
+        },
+        {
+          "id": "prototype",
+          "title": "PROTOTYPE",
+          "description": "Build small, fast, and with purpose. Test ideas in the real world."
+        },
+        {
+          "id": "share",
+          "title": "SHARE",
+          "description": "Reveal what we learn. Strengthen the network. Send what’s next."
+        }
+      ]
+    },
+    "framework": {
+      "headline": "Bring something that wants to become real.",
+      "lead": "Every prototype sits at the intersection of people, place, story, and system — then meets the pillars in roundtable.",
+      "nodes": [
+        {
+          "id": "people",
+          "title": "PEOPLE",
+          "question": "Who is this for?",
+          "accent": "#FF5E5B"
+        },
+        {
+          "id": "place",
+          "title": "PLACE",
+          "question": "Where does it live?",
+          "accent": "#2563FF"
+        },
+        {
+          "id": "story",
+          "title": "STORY",
+          "question": "What's the narrative?",
+          "accent": "#00C7B1"
+        },
+        {
+          "id": "system",
+          "title": "SYSTEM",
+          "question": "What supports it?",
+          "accent": "#FFB020"
+        }
+      ]
+    },
+    "join": {
+      "id": "join",
+      "headline": "The next Future Lab is coming soon",
+      "lead": "We are planning the next Future Lab and will announce the date, time, and location soon.",
+      "cta": "NEXT DATE COMING SOON",
+      "ctaMember": "NEXT DATE COMING SOON"
+    },
+    "footer": {
+      "tagline": "Building what comes next, together.",
+      "links": [
+        {
+          "href": "/futurist-events",
+          "label": "EVENTS"
+        },
+        {
+          "href": "/futurelab#day-schedule",
+          "label": "NEXT FUTURE LAB"
+        },
+        {
+          "href": "/privacy",
+          "label": "PRIVACY"
+        },
+        {
+          "href": "mailto:hello@thefuturist.network",
+          "label": "CONTACT"
+        }
+      ],
+      "copyright": "© 2026 The Futurist Network",
+      "domain": "THEFUTURIST.NETWORK"
+    }
+  },
+  "faculty": [
+    {
+      "id": "kalomo-sala-jordan",
+      "name": "Kalomo Sala Jordan",
+      "role": "Visionary Artist · Sound & Art Installation (OM OLAK)",
+      "image": "/images/futurelab-facilitators/kalomo.jpg",
+      "accent": "#e64dff",
+      "bio": [
+        "A visionary artist born in Middletown, CT in 1973, Kalomo Sala Jordan channels his visions into artwork drawn from a lifetime of exploring the psyche and multi-dimensional reality. His science-fiction sensibility blends the futuristic with the ancient — Egyptian, Aztec, and other cultures and planetary star systems that inform his influences. His connection to other realms shows through the information and alien languages transmitted in his work. Focusing on the emotion of love, he keeps his imaging clean and pure — line work and blended colors, often in UV paints that bring light out of the darkness of space and other realms, while inviting a calm, secure mind state in everyone who experiences it.",
+        "His mission on this planet is to help expand human consciousness as a whole while connecting with like-minded souls through his art in all its forms. A self-taught painter from an early age, his work has been shown throughout the Northeast, New York City, and as far as Tokyo, Japan. Beyond painting, Kalomo designs custom handmade jewelry, clothing, and footwear. For this next chapter his intention is to stay awake and aware — to paint with pure compassion and love, for the healing of all things that live, with infinite and eternal light. At Future Lab he presents a combined sound and art installation.",
+        "Under the name OM OLAK, Kalomo has been part of the psytrance scene since the late ’90s, based out of New England and New York City. He co-founded Awake Productions in 1996 and has spent three decades DJing, producing, and creating events under the names Meszenjah and OM OLAK — spanning psytrance and drum & bass, and helping pioneer New England’s electronic music scene. He has opened for acts like Infected Mushroom and shared bills with Mubali, Kox Box, and Kabayun, and worked alongside the Fractal Tribe collective for over a decade. Now a member of Goajira Records (Philadelphia), he pushes twilight, forest, dark, and high-tech psytrance — dark psy and forest from 145 to 160 bpm, with hard kicks, supersonic basslines, and galactic melodies that build the mothership through sound. Trance to make them dance."
+      ],
+      "links": [
+        {
+          "label": "OM OLAK on SoundCloud",
+          "href": "https://soundcloud.com/meszenjah/omolak"
+        }
+      ]
+    },
+    {
+      "id": "greg-decarlo",
+      "name": "Greg DeCarlo",
+      "role": "AI Innovator · Software Architect · Immersive Tech",
+      "image": "/images/futurelab-facilitators/greg.jpg",
+      "accent": "#2563ff",
+      "bio": [
+        "Greg DeCarlo is an AI innovator, software architect, and creator of immersive tech. He’s passionate about transforming how businesses and individuals harness artificial intelligence to solve real-world challenges. With over 20 years at the intersection of enterprise architecture and emerging technologies, he builds bridges between complex business needs and elegant technical solutions.",
+        "What sets his approach apart is a focus on making advanced AI accessible and practical — whether modernizing legacy systems, creating intuitive AI assistants, or developing cloud-native applications that scale. His recent work centers on platforms like Cloud Nine AI (open-source) and iSaid.ai, technologies that empower users to build powerful AI applications without deep technical expertise. He believes the next wave of innovation will come from putting AI tools in the hands of domain experts who understand the problems that need solving."
+      ]
+    },
+    {
+      "id": "marc-pettersen",
+      "name": "Marc Pettersen",
+      "role": "Creative Technologist · Educator · Community Builder",
+      "image": "/images/futurelab-facilitators/marc.jpg",
+      "accent": "#00c7b1",
+      "bio": [
+        "Marc Pettersen is a creative technologist, educator, and community builder working at the intersection of art, technology, storytelling, and hands-on making. Through his work with Hartford Public Library’s YOUmedia and his emerging project, Pixel & Palette, he explores how tools like 3D printing, animation, game design, mixed reality, and immersive technology can bring people together — not simply to experience something, but to create it."
+      ]
+    },
+    {
+      "id": "nick-kaufmann",
+      "name": "Nick Kaufmann",
+      "role": "XR Cities · Reality Capture for Collective Imagination",
+      "image": "/images/futurelab-facilitators/nick.png",
+      "imagePosition": "top",
+      "accent": "#ffb020",
+      "bio": [
+        "Nick Kaufmann is building XR Cities — a series of workshops that help communities build places together from within, enabling collective imagination practices through reality capture and immersive technology."
+      ],
+      "links": [
+        {
+          "label": "XR Cities",
+          "href": "https://sites.google.com/view/xrcities/"
+        },
+        {
+          "label": "nkauf87@gmail.com",
+          "href": "mailto:nkauf87@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": "dave-oneness",
+      "name": "Dave Oneness",
+      "role": "Faculty",
+      "image": "/images/futurelab-facilitators/davey.jpg",
+      "imagePosition": "top",
+      "accent": "#ff5e5b",
+      "bio": [],
+      "comingSoon": true
+    },
+    {
+      "id": "joe-larose",
+      "name": "Joe LaRose",
+      "role": "Faculty",
+      "image": "/images/futurelab-facilitators/joe.jpg",
+      "accent": "#ffb600",
+      "bio": [],
+      "comingSoon": true
+    }
+  ]
+}
